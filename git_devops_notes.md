@@ -515,5 +515,3 @@ Golden Rule:
 
 ---
 
-Would you like me to generate this entire detailed version into a formatted PDF (with sections, tables, and examples) so you can keep it as your DevOps Git reference document?
-It will include interview Q&A, command sheets, and workflow visuals.
